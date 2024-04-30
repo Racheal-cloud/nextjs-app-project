@@ -1,8 +1,7 @@
 import LoginForm from "../ui/login-form";
 function page() {
     return (
-      
-        <div>Inside the login route</div>
+        <LoginForm/>
     );
   }
   export default page;
